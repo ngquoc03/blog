@@ -1,7 +1,7 @@
 import LeftSidebar from "../../components/LeftSidebar/LeftSidebar";
 import Hero from "../../components/Hero/Hero";
 import PostCard from "../../components/PostCard/PostCard";
-import SideBar from "../../components/SideBar/SideBar";
+import SideBar from "../../components/SideBar/Sidebar";
 import Footer from "../../components/Footer/Footer";
 
 
