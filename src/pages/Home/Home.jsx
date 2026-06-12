@@ -4,6 +4,7 @@ import PostCard from "../../components/PostCard/PostCard";
 import SideBar from "../../components/SideBar/SideBar";
 import Footer from "../../components/Footer/Footer";
 
+
 function Home() {
   return (
     <div className="bg-[#f9f9ff] min-h-screen">
